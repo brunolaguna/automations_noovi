@@ -1,0 +1,47 @@
+ASSIGN salva_ponto_event_name_1 = 'menu_principal'
+ASSIGN salva_ponto_validacao_1 = 'Silencio'
+ASSIGN salva_ponto_fluxo_1 = 'Menu_Dinamico_Seguros'
+ASSIGN salva_ponto_indicador_1 = tipoDesconexao
+ASSIGN salva_ponto_range_1 = 14000
+ASSIGN salva_ponto_ponto_1 = 14034
+ASSIGN salva_ponto_ultimo_Ponto_1 = ultimoPonto
+ASSIGN salva_ponto_input_1 = ''
+ASSIGN salva_ponto_tentativa_1 = '1_Tentativa'
+ASSIGN salva_ponto_ponto_Origem_1 = ''
+ASSIGN salva_ponto_produto_1 = 'Cobranca_Seguros'
+
+ASSIGN salva_ponto_event_name_2 = 'menu_principal'
+ASSIGN salva_ponto_validacao_2 = 'Repete_Opcoes_Silencio'
+ASSIGN salva_ponto_fluxo_2 = 'Menu_Dinamico_Seguros'
+ASSIGN salva_ponto_indicador_2 = tipoDesconexao
+ASSIGN salva_ponto_range_2 = 14000
+ASSIGN salva_ponto_ponto_2 = 14038
+ASSIGN salva_ponto_ultimo_Ponto_2 = ultimoPonto
+ASSIGN salva_ponto_input_2 = ''
+ASSIGN salva_ponto_tentativa_2 = '1_Tentativa'
+ASSIGN salva_ponto_ponto_Origem_2 = ''
+ASSIGN salva_ponto_produto_2 = 'Cobranca_Seguros'
+
+ASSIGN salva_ponto_event_name_3 = 'menu_principal'
+ASSIGN salva_ponto_validacao_3 = 'Silencio'
+ASSIGN salva_ponto_fluxo_3 = 'Menu_Dinamico_Seguros'
+ASSIGN salva_ponto_indicador_3 = tipoDesconexao
+ASSIGN salva_ponto_range_3 = 14000
+ASSIGN salva_ponto_ponto_3 = 14035
+ASSIGN salva_ponto_ultimo_Ponto_3 = ultimoPonto
+ASSIGN salva_ponto_input_3 = ''
+ASSIGN salva_ponto_tentativa_3= '2_Tentativa'
+ASSIGN salva_ponto_ponto_Origem_3 = ''
+ASSIGN salva_ponto_produto_3 = 'Cobranca_Seguros'
+
+ASSIGN salva_ponto_event_name_4 = 'atendimento_encerrado'
+ASSIGN salva_ponto_validacao_4 = 'Silencio'
+ASSIGN salva_ponto_fluxo_4 = 'Menu_Dinamico_Seguros'
+ASSIGN salva_ponto_indicador_4 = tipoDesconexao
+ASSIGN salva_ponto_range_4 = 20000
+ASSIGN salva_ponto_ponto_4 = 20011
+ASSIGN salva_ponto_ultimo_Ponto_4 = ultimoPonto
+ASSIGN salva_ponto_input_4 = ''
+ASSIGN salva_ponto_tentativa_4 = '2_Tentativa'
+ASSIGN salva_ponto_ponto_Origem_4 = ''
+ASSIGN salva_ponto_produto_4 = 'Cobranca_Seguros'
